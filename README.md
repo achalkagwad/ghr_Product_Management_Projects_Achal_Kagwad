@@ -10,9 +10,9 @@
 ```
 |--   app
 |     |-- Readme.md 
-|     |-- projects <-- If this folder is absent,data is larger than 100mb, thus have to use GIT LFS
+|     |-- projects <-- Root Folder of Project with unique name, If this folder is absent,data is larger than 100mb, thus have to use GIT LFS
 |          |-- Deliverables --  <-Manually created presentations for business users,stake holders in pptx,pdf etc
-           |-- Problem Statements --  <- This has given problem statements, data sets, and all other explanatory materials in excel, pptx, pdfs
-|     |-- Misc <- This has syllabus, my certificates obtained from university and all other product management learning materials.
+           |-- Problem Statements --  <-This has given problem statements, data sets, and all other explanatory materials in excel, pptx, pdfs
+|     |-- Misc <-This has syllabus,my certificates obtained from Uni and all other product mgmt learning materials.
 
 ```
